@@ -28,13 +28,16 @@ In this book chapter, we provide an overview of the development of spiral gangli
 ![PDF](/images/pdf icon.png){:width="5%"}{:style="float: left; margin-right: auto;"}   
 
 <h5 style="font-weight: normal">
-Shrestha BR, Chia C, Wu L, Kujawa SG, Liberman MC, Goodrich LV. <font color="#05a8e3"> <b>Sensory Neuron Diversity in the Inner Ear Is Shaped by Activity. </b> </font>  <i> <b>Cell</b></i>. 2018 Aug 23 <a href="https://www.cell.com/action/showPdf?pii=S0092-8674%2818%2930901-2"> <font color="#05a8e3" size=5>      ↓ </font> </a> <a href="https://www.cell.com/cell/fulltext/S0092-8674(18)30901-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867418309012%3Fshowall%3Dtrue"> <font color="#05a8e3">        🔗 </font> </a> 
-</h5> 
+Shrestha BR, Chia C, Wu L, Kujawa SG, Liberman MC, Goodrich LV. <font color="#05a8e3"> <b>Sensory Neuron Diversity in the Inner Ear Is Shaped by Activity. </b> </font>  <i> <b>Cell</b></i>. 2018 Aug 23 <a href="https://www.cell.com/action/showPdf?pii=S0092-8674%2818%2930901-2"> <font color="#05a8e3" size=5>      ↓ </font> </a> <a href="https://www.cell.com/cell/fulltext/S0092-8674(18)30901-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867418309012%3Fshowall%3Dtrue"> <font color="#05a8e3">        🔗 </font> </a>
+</h5>
+
 {% highlight markdown %}
-> We defined a molecular classification scheme for spiral ganglion neurons (SGNs) using single-cell RNA sequencing in mice. We also showed that SGN subtype identities emerge around birth and are refined postnatally. Perturbation of spontaneous activity altered SGN identities after birth, revealing an intriguing developmental phenomemon whereby neuronal subtype proportions are influenced by circuit activity generated in the absence of extrinsic sound.  
+> We defined a molecular classification scheme for spiral ganglion neurons (SGNs) using single-cell RNA sequencing in mice. We also showed that SGN subtype identities emerge around birth and are refined postnatally. Perturbation of spontaneous activity altered SGN identities after birth, revealing an intriguing developmental phenomenon whereby neuronal subtype proportions are influenced by circuit activity generated in the absence of extrinsic sound.
 {% endhighlight %}
-<!--![PDF](/images/pdf icon.png){:width="3.5%"}{:style="float: left; margin-right: lem;"} 
-![Web](/images/web icon.png){:width="5%"}{:style="float: left; margin-right: auto;" :target="www.google.com"} 
+
+
+<!--![PDF](/images/pdf icon.png){:width="3.5%"}{:style="float: left; margin-right: lem;"}
+![Web](/images/web icon.png){:width="5%"}{:style="float: left; margin-right: auto;" :target="www.google.com"}
 ![Plumetrix](/images/plumetrix.png){:width="6%"}{:style="float: left; margin-right: auto;"}
 -->
 ![PDF](/images/pdf icon.png){:width="5%"}{:style="float: left; margin-right: auto;"}   
